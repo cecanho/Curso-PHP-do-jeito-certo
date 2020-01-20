@@ -2,6 +2,15 @@
 
 Olá, bem vindo ao curso PHP do jeito certo. Sou o professor Cristiano da faculdade ASSER Rio Claro/SP e montei este curso vinculado com YouTube para termos uma visão das boas práticas em PHP.
 
+<h3>Servidor</h3>
+O servidor escolhido foi o XAMPP, mas poderia ser qualquer um que forneça os serviços: MySQL, Apache e PHP.
+
+<h3>IDE escolhida</h3>
+O PHP Storm é uma ótima interface, mas há alternativas livres como o sublime-text-3, ou ainda, o Notepad++.
+
+<h3>Banco de dados</h3>
+Neste curso foi criado uma base de dados em MySQL chamada "phpdojeitocerto" que contém uma tabela automovel contendo os campos id (INT, PRIMARY KEY, AUTOINCREMENT), marca (VARCHAR 15) e modelo (VARCHAR 15) para a aula de banco de dados. Para o Projeto foi criada a tabela usuario contendo os campos id (INT, PRIMARY KEY, AUTOINCREMENT), login (VARCHAR 150), password (VARCHAR 8), nome (VARCHAR 150) e last_access ((VARCHAR 150).
+
 <h2> PHP do jeito certo! </h2>
 
 O <a href="http://br.phptherightway.com/">site PHP do jeito certo</a> foi criado por Josh Lockhart e possui vários colaboradores. O site possui um repositório <a href="https://github.com/PHPSP/php-the-right-way">aqui no GitHub</a> com vários arquivos.
