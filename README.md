@@ -70,7 +70,7 @@ Em ambiente de desenvolvimento o ideal é manter o projeto em local parecido (se
 Recursos disponibilizados pelo site PHP do jeito certo: links, livros, frameworks, componentes e pessoas para seguir. <a href="https://youtu.be/mbjKIT3HJMU">Link aqui</a>.
 
 <h3> Aula 19 - Apresentação da estrutura do projeto </h3>
-<a href="">link aqui</a>.
+<a href="https://www.youtube.com/watch?v=XroHPX-hKRw">link aqui</a>.
 
 <h3> Aula 20 - Apresentação do projeto </h3>
 <a href="">link aqui</a>.
