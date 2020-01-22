@@ -70,10 +70,10 @@ Em ambiente de desenvolvimento o ideal é manter o projeto em local parecido (se
 Recursos disponibilizados pelo site PHP do jeito certo: links, livros, frameworks, componentes e pessoas para seguir. <a href="https://youtu.be/mbjKIT3HJMU">Link aqui</a>.
 
 <h3> Aula 19 - Apresentação da estrutura do projeto </h3>
-<a href="https://www.youtube.com/watch?v=XroHPX-hKRw">link aqui</a>.
+Nesta vídeo aula apresento a estrutura do projeto tela de login utilizando o conceito de MVC conforme o site phptherightway.com <a href="https://www.youtube.com/watch?v=XroHPX-hKRw">link aqui</a>.
 
 <h3> Aula 20 - Apresentação do projeto </h3>
-<a href="https://youtu.be/DvFHT2bFfPQ ">link aqui</a>.
+Uma vez vista a estrutura, agora veremos em funcionamento. Notem, esta á minha visão preliminar de um processo de login e que deve ser aperfeiçoado, nada definitivo, mas serve como início dos trabalhos. <a href="https://youtu.be/DvFHT2bFfPQ ">link aqui</a>.
 
 <h3> Aula 21 - Apresentação do fonte do projeto </h3>
-<a href="">link aqui</a>.
+Apresentação dos fontes do projeto, comentem no YouTube o que fariam diferente, ou, o que desejariam melhorar neste projeto. Quem sabe você não será convidado a participar desta aventura digital <a href="#">link aqui</a>.
