@@ -77,3 +77,7 @@ Uma vez vista a estrutura, agora veremos em funcionamento. Notem, esta á minha 
 
 <h3> Aula 21 - Apresentação do fonte do projeto </h3>
 Apresentação dos fontes do projeto, comentem no YouTube o que fariam diferente, ou, o que desejariam melhorar neste projeto. Quem sabe você não será convidado a participar desta aventura digital <a href="#">link aqui</a>.
+
+<h3> Desenvolvimento, criação e manutenção do projeto: </h3>
+Professor: Cristiano José Cecanho.
+Lattes: <a href="http://lattes.cnpq.br/1443424861588077"> Acesse aqui. </a>
