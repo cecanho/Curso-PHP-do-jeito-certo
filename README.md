@@ -78,6 +78,7 @@ Uma vez vista a estrutura, agora veremos em funcionamento. Notem, esta á minha 
 <h3> Aula 21 - Apresentação do fonte do projeto </h3>
 Apresentação dos fontes do projeto, comentem no YouTube o que fariam diferente, ou, o que desejariam melhorar neste projeto. Quem sabe você não será convidado a participar desta aventura digital <a href="#">link aqui</a>.
 
-<h3> Desenvolvimento, criação e manutenção do projeto: </h3>
-<p> Professor: Cristiano José Cecanho. </p>
-<p> Lattes: <a href="http://lattes.cnpq.br/1443424861588077"> Acesse aqui. </a></p>
+<h3>Sobre</h3>
+Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
+<h3>Vídeo de apoio/apresentação</h3>
+<a href="https://www.youtube.com/user/crispdg">Prof. Cristiano José Cecanho</a>
